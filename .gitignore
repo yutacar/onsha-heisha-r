@@ -1,3 +1,5 @@
 /.vagrant/
 Rplots.pdf
-
+.RData
+.Rhistory
+*.png
